@@ -22,6 +22,8 @@ disableShare: false
 ---
 Telling a deep story through a medium that relies heavily on luck and randomness, a medium where you have to repeat the same part over and over again, is a difficult challenge. I'm talking about roguelike games, or even rogue-lite games, where after each run, the player will have some progresses toward a certain goal. This is one of the challenges for Supergiant Games in developing their game, Hades.
 
+![Hi](https://chiyodewa74.github.io/blog/images/hi.jpg)
+
 ![Hades' Combat](/images/hades-combat.jpg)
 
 Hades is a hack-and-slash roguelike game where players play as Zagreus, son of Hades, God of the Underworld, who's trying to get out of his home, hell. Throughout the game, players will be presented with pieces of Greek mythology through the many cast of characters from the game.
