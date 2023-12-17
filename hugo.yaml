@@ -83,3 +83,5 @@ outputs:
 services:
   disqus:
     shortname: chiyo-dewa
+
+enableEmoji: true

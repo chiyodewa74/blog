@@ -19,3 +19,5 @@ ShowBreadCrumbs: false
 # weight: 1
 ---
 Test 1
+
+Coba emoji :see_no_evil:
