@@ -42,15 +42,15 @@ params:
   
   socialIcons:
     - name: "Instagram"
-      url: ""
+      url: "https://www.instagram.com/chiyo_dewa/"
     - name: "Twitter"
-      url: ""
+      url: "https://twitter.com/ChiyoDewa"
     - name: "itchio"
-      url: ""
+      url: "https://chiyodewa.itch.io/"
     - name: "linkedin"
-      url: ""
+      url: "https://www.linkedin.com/in/muhammad-alif-samudra/"
     - name: "email"
-      url: ""
+      url: "mailto:chiyodewa74@gmail.com"
 
   description: "Chiyo Dewa's Personal Blog"
   author: Chiyo Dewa
