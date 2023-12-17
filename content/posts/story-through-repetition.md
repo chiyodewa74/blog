@@ -22,17 +22,19 @@ disableShare: false
 ---
 Telling a deep story through a medium that relies heavily on luck and randomness, a medium where you have to repeat the same part over and over again, is a difficult challenge. I'm talking about roguelike games, or even rogue-lite games, where after each run, the player will have some progresses toward a certain goal. This is one of the challenges for Supergiant Games in developing their game, Hades.
 
-{{<figure width=200 height=200 src="/posts/story-through-repetition/hades-combat2.jpg">}}
-Hades is a hack-and-slash roguelike game where players play as Zagreus, son of Hades, God of the Underworld, who's trying to get out of his home, hell.
-{{<img-post "/posts/story-through-repetition" "hades-combat2.jpg" "Hades Combat" "left">}} Throughout the game, players will be presented with pieces of Greek mythology through the many cast of characters from the game.
+{{<figure width=300 height=300 src="/posts/story-through-repetition/hades-combat.jpg#floatright">}}
+
+Hades is a hack-and-slash roguelike game where players play as Zagreus, son of Hades, God of the Underworld, who's trying to get out of his home, hell. Throughout the game, players will be presented with pieces of Greek mythology through the many cast of characters from the game.
 
 With the characteristics of roguelike games, of course, players will find it difficult to reach their goal, die, and return to the starting point while bringing some of the resources obtained in their "run" which is needed to strengthen Zagreus.
 
 Supergiant Games put small pieces of Greek mythology in each character's dialogue that can be accessed by players every time they return to "home" or find upgrades in the run they are doing. This allows the player to get a unique piece of story continuation in each run, and gives the impression of time progression in each character interaction, even though the player continues to repeat the same gameplay loop.
 
+{{<figure src="/posts/story-through-repetition/dialog.jpg">}}
+
 Choosing Zagreus as the main playable character is also the right choice. Zagreus is the God of Rebirth, so it would make sense for him to keep dying and keep trying to get out of hell.
 
-At times, Hades feels like a relationship simulator game. This is due to the many resources that players can get from the runs they do which can (indirectly) help players unlock the next piece of the story.
+{{<figure src="/posts/story-through-repetition/resources.png#floatleft">}}
 
 At times, Hades feels like a relationship simulator game. This is due to the many resources that players can get from the runs they do which can (indirectly) help players unlock the next piece of the story.
 
