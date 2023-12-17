@@ -406,14 +406,16 @@ img.in-text {
     margin: auto;
 }
 
-figure.floatright {
-    margin: 10px;
-    padding: 10px;
-	float: right;
-}
-
-figure.floatleft {
-    margin: 10px;
-    padding: 10px;
-	float: left;
+@media only screen and (min-width: 800px) {
+    figure.floatright {
+        margin: 10px;
+        padding: 10px;
+        float: right;
+    }
+    
+    figure.floatleft {
+        margin: 10px;
+        padding: 10px;
+        float: left;
+    }
 }
