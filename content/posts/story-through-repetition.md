@@ -2,7 +2,7 @@
 title: 'Story Through Repetition'
 description: ""
 author: ["Chiyo Dewa"]
-date: 2023-01-19
+date: 2023-12-17
 tags: ["", ""]
 categories: ["", ""]
 series: ["Game Design Analysis"]

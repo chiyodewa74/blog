@@ -1,5 +1,5 @@
 ---
-title: 'Where to start'
+title: 'Press Start'
 description: ""
 author: ["Chiyo Dewa"]
 date: 2023-12-17
@@ -29,9 +29,3 @@ As you might guess, this blog is going to look a bit directionless. But that's e
 I will also write an update in the form of a blog post every 2 months about the condition of this blog and what I might write in the future.
 
 So, have fun reading my messy blog. And if you have any comments, input, suggestions, or anything, I will try to always open the comments column for all blog posts except this post and maybe the next update posts. Thank you!
-
-![static/images](https://chiyodewa74.github.io/blog/images/resources.png)
-![static/posts](https://chiyodewa74.github.io/blog/posts/resources.png)
-![static/posts/story-through-repetition](https://chiyodewa74.github.io/blog/posts/story-through-repetition/resources.png)
-
-
