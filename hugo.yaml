@@ -30,7 +30,6 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   defaultTheme: auto
-  comments: true
   env: production
 
   profileMode:
