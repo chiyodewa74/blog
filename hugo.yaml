@@ -38,8 +38,8 @@ params:
     # imageWidth: 120
     # imageHeight: 120
     buttons:
-      - name: Where to Start
-        url: posts/where-to-start
+      - name: Press Start
+        url: posts/press-start
   
   socialIcons:
     - name: "Instagram"

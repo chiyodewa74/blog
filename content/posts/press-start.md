@@ -2,10 +2,10 @@
 title: 'Press Start'
 description: ""
 author: ["Chiyo Dewa"]
-date: 2023-12-17
-tags: ["", ""]
-categories: ["", ""]
-series: ["", ""]
+date: 2023-12-16
+tags: [""]
+categories: [""]
+series: [""]
 aliases: [""]
 cover:
   image: images/hi.jpg
