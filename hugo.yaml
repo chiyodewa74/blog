@@ -42,12 +42,8 @@ params:
     # imageWidth: 120
     # imageHeight: 120
     buttons:
-      - name: Intro
+      - name: Where to Start
         url: posts/where-to-start
-      - name: Search
-        url: /search
-      - name: Series
-        url: /series
   
   socialIcons:
     - name: "Instagram"
