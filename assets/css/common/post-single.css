@@ -406,14 +406,14 @@ img.in-text {
     margin: auto;
 }
 
-img[src$='#floatleft']
-{
-	float:left;
-    padding: 15px;
+figure.floatright {
+    margin: 10px;
+    padding: 10px;
+	float: right;
 }
 
-img[src$='#floatright']
-{
-	float:right;
-    padding: 15px;
+figure.floatleft {
+    margin: 10px;
+    padding: 10px;
+	float: left;
 }

@@ -33,3 +33,5 @@ So, have fun reading my messy blog. And if you have any comments, input, suggest
 ![static/images](https://chiyodewa74.github.io/blog/images/resources.png)
 ![static/posts](https://chiyodewa74.github.io/blog/posts/resources.png)
 ![static/posts/story-through-repetition](https://chiyodewa74.github.io/blog/posts/story-through-repetition/resources.png)
+
+
