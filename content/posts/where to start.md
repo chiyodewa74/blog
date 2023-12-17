@@ -29,3 +29,12 @@ As you might guess, this blog is going to look a bit directionless. But that's e
 I will also write an update in the form of a blog post every 2 months about the condition of this blog and what I might write in the future.
 
 So, have fun reading my messy blog. And if you have any comments, input, suggestions, or anything, I will try to always open the comments column for all blog posts except this post and maybe the next update posts. Thank you!
+
+![static](hades-combat.jpg)
+![static](/hades-combat.jpg)
+![static-images](images/hades-combat.jpg)
+![static-images](/images/hades-combat.jpg)
+![posts](posts/hades-combat.jpg)
+![posts](/posts/hades-combat.jpg)
+![posts/story-through-repetition](posts/hades-combat.jpg)
+![posts](/posts/hades-combat.jpg)
