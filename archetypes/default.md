@@ -18,4 +18,5 @@ ShowToc: false
 ShowBreadCrumbs: false
 # weight: 1
 comments: false
+disableShare: false
 ---
