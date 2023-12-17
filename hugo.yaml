@@ -1,4 +1,58 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Chiyo Dewa
 theme: "PaperMod"
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+menu:
+  main:
+    - name: Search
+      url: search/
+      weight: 1
+    - name: Series
+      url: series/
+      weight: 2
+    - name: Tags
+      url: tags/
+      weight: 3
+    - name: Archive
+      url: archives
+      weight: 4
+
+params:
+  profileMode:
+    enabled: true
+    title: "Chiyo Dewa"
+    subtitle: Just a boy, having fun
+    imageUrl: "images/coba.png"
+    imageTitle: "Chiyo Dewa's profile picture"
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      - name: Intro
+        url: posts/where-to-start
+      - name: Search
+        url: /search
+      - name: Series
+        url: /series
+  
+  socialIcons:
+    - name: "Instagram"
+      url: ""
+    - name: "Twitter"
+      url: ""
+    - name: "itchio"
+      url: ""
+    - name: "linkedin"
+      url: ""
+    - name: "email"
+      url: ""
+
+  description: "Chiyo Dewa's Personal Blog"
+  author: Chiyo Dewa
+  ShowShareButtons: true
+  ShowPostNavLinks: true

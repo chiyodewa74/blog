@@ -1,8 +1,8 @@
 ---
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+title: 'Coba5'
 description: ""
 author: ["Chiyo Dewa"]
-date: {{ .Date }}
+date: 2023-12-17T12:16:07+07:00
 tags: ["", ""]
 categories: ["", ""]
 series: ["", ""]
