@@ -11,6 +11,8 @@ aliases: [""]
   # image: images/msg.png
   # alt: ""
   # caption: ""
+# images:
+  # images/<SEO thumbnail>
 ShowToc: false
 # TocOpen: true
 ShowBreadCrumbs: false

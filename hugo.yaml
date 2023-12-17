@@ -24,6 +24,15 @@ menu:
       weight: 4
 
 params:
+
+  description: "Chiyo Dewa's Personal Blog"
+  author: Chiyo Dewa
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  defaultTheme: auto
+  comments: true
+  env: production
+
   profileMode:
     enabled: true
     title: "Chiyo Dewa"
@@ -52,12 +61,6 @@ params:
     - name: "email"
       url: "mailto:chiyodewa74@gmail.com"
 
-  description: "Chiyo Dewa's Personal Blog"
-  author: Chiyo Dewa
-  ShowShareButtons: true
-  ShowPostNavLinks: true
-  defaultTheme: auto
-
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -66,9 +69,16 @@ params:
     location: 0
     distance: 1000
     threshold: 0.4
+  
+  cover:
+    responsiveImages: false
 
 outputs:
   home:
     - HTML
     - RSS
     - JSON # necessary for search
+
+services:
+  disqus:
+    shortname: chiyo-dewa
