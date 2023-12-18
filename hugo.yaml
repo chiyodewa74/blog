@@ -79,5 +79,10 @@ services:
   disqus:
     shortname: chiyo-dewa
 
+sitemap:
+  changeFreq: ""
+  filename: sitemap.xml
+  priority: -1
+
 enableEmoji: true
 googleAnalytics: G-Z65J3TNNRZ
