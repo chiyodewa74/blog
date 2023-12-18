@@ -19,4 +19,7 @@ ShowBreadCrumbs: false
 # weight: 1
 comments: false
 disableShare: false
+canonicalURL: ""
+ShowCanonicalLink: false
+CanonicalLinkText: "Originally published at"
 ---

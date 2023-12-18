@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://chiyodewa74.github.io/blog/
 languageCode: en-us
 title: Chiyo Dewa
 theme: PaperMod
@@ -21,7 +21,6 @@ menu:
       weight: 3
 
 params:
-
   description: "Chiyo Dewa's Personal Blog"
   author: Chiyo Dewa
   ShowShareButtons: true
