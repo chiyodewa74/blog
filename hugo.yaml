@@ -64,6 +64,10 @@ params:
   cover:
     responsiveImages: false
     hiddenInList: true
+  
+  analytics:
+    google:
+      SiteVerificationTag: "ZbEtLITHPV3AyswBe8NYCanOIeOLEsQVI6MQWB1R6EE"
 
 outputs:
   home:
