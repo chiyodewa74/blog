@@ -2,7 +2,7 @@
 title: 'Lure of Exploration'
 description: "Why i'm addicted to Genshin Impact world exploration"
 author: ["Chiyo Dewa"]
-date: 2023-12-19
+date: 2023-12-18
 tags: ["Genshin Impact", "Genshin", "Teyvat", "Open World", "Exploration", "Action", "Mission"]
 categories: [""]
 series: ["Game Essays"]
@@ -17,7 +17,7 @@ ShowToc: false
 # TocOpen: true
 ShowBreadCrumbs: false
 # weight: 1
-comments: false
+comments: true
 disableShare: false
 canonicalURL: "https://genshin.hoyoverse.com/en/"
 ShowCanonicalLink: true
