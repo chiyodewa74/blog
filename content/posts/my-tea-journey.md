@@ -19,9 +19,9 @@ ShowBreadCrumbs: false
 # weight: 1
 comments: true
 disableShare: false
-canonicalURL: ""
-ShowCanonicalLink: false
-CanonicalLinkText: "Originally published at"
+canonicalURL: "https://www.instagram.com/dontea.id/"
+ShowCanonicalLink: true
+CanonicalLinkText: "Check out the cafe's ig at"
 ---
 I have loved drinking tea since childhood. If offered a choice between tea or any other drink, I will always choose tea. I don’t know why, maybe because of the fragrant aroma, or the not-so-bitter taste when compared to coffee, but not as sweet as drinks with artificial sweeteners.
 
