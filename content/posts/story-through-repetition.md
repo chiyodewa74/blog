@@ -10,7 +10,7 @@ aliases: [""]
 cover:
   image: posts/story-through-repetition/cover.png
   alt: "Hades banner"
-  caption: "Hades banner"
+  caption: ""
 # images:
   # images/<SEO thumbnails>
 ShowToc: false
