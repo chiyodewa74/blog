@@ -43,4 +43,6 @@ At times, Hades feels like a relationship simulator game. This is due to the man
 
 Resources such as Nectar or Ambrosia, which, when given to a character, can provide new dialogue interactions both at that time and in the future. And also Darkness, which can strengthen Zagreus so that players can get to more difficult levels and find new characters.
 
+***
+
 These three points are the answers to the challenges faced by Supergiant Games in telling the story of Hades. Perhaps, other roguelike developers will start using this formula in their games and we as players will experience a different interactive narrative experience like none other before.
