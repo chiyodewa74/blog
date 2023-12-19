@@ -4,8 +4,8 @@ description: ""
 author: ["Chiyo Dewa"]
 date: {{ .Date }}
 tags: ["", ""]
-categories: ["", ""]
-series: ["", ""]
+categories: [""]
+series: [""]
 aliases: [""]
 # cover:
   # image: images/msg.png

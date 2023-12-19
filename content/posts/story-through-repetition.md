@@ -3,14 +3,14 @@ title: 'Story Through Repetition'
 description: "Telling a deep story through randomness in Hades"
 author: ["Chiyo Dewa"]
 date: 2023-12-17
-tags: [""]
+tags: ["Hades", "Hades Game", "Roguelike", "Action Roguelike", "Game Design", "Game Analysis", "Game Review"]
 categories: [""]
-series: ["Game Design Analysis"]
+series: ["Game Essays"]
 aliases: [""]
 cover:
   image: posts/story-through-repetition/cover.png
-  alt: "Hades' banner image"
-  caption: ""
+  alt: "Hades banner"
+  caption: "Hades banner"
 # images:
   # images/<SEO thumbnails>
 ShowToc: false
@@ -25,7 +25,7 @@ CanonicalLinkText: "Check out the game at"
 ---
 Telling a deep story through a medium that relies heavily on luck and randomness, a medium where you have to repeat the same part over and over again, is a difficult challenge. I'm talking about roguelike games, or even rogue-lite games, where after each run, the player will have some progresses toward a certain goal. This is one of the challenges for Supergiant Games in developing their game, Hades.
 
-{{<figure width=300 height=300 alt="Hades Combat" class="floatright" src="https://chiyodewa74.github.io/blog/posts/story-through-repetition/hades-combat.jpg">}}
+{{<figure width=300 height=300 alt="Combat in Hades" class="floatright" src="https://chiyodewa74.github.io/blog/posts/story-through-repetition/hades-combat.jpg">}}
 
 Hades is a hack-and-slash roguelike game where players play as Zagreus, son of Hades, God of the Underworld, who's trying to get out of his home, hell. Throughout the game, players will be presented with pieces of Greek mythology through the many cast of characters from the game.
 
@@ -33,7 +33,7 @@ With the characteristics of roguelike games, of course, players will find it dif
 
 Supergiant Games put small pieces of Greek mythology in each character's dialogue that can be accessed by players every time they return to "home" or find upgrades in the run they are doing. This allows the player to get a unique piece of story continuation in each run, and gives the impression of time progression in each character interaction, even though the player continues to repeat the same gameplay loop.
 
-{{<figure alt="Hades Dialog" src="https://chiyodewa74.github.io/blog/posts/story-through-repetition/dialog.jpg">}}
+{{<figure alt="Dialog in Hades" attr="Dialog in Hades" src="https://chiyodewa74.github.io/blog/posts/story-through-repetition/dialog.jpg">}}
 
 Choosing Zagreus as the main playable character is also the right choice. Zagreus is the God of Rebirth, so it would make sense for him to keep dying and keep trying to get out of hell.
 
