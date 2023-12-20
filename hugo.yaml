@@ -16,7 +16,7 @@ menu:
     - name: Series
       url: series/
       weight: 2
-    - name: Archive
+    - name: Posts
       url: archives
       weight: 3
     - name: Portfolio
@@ -42,6 +42,7 @@ params:
     buttons:
       - name: Press Start
         url: posts/press-start
+      
   
   socialIcons:
     - name: "Instagram"

@@ -13,7 +13,7 @@ aliases: ["/portfolio"]
   # caption: ""
 # images:
   # images/<SEO thumbnail>
-ShowToc: false
+ShowToc: true
 # TocOpen: true
 ShowBreadCrumbs: false
 # weight: 1
@@ -90,3 +90,8 @@ This particular version of the game is specifically developed for UK audience.
 
 {{< button href="https://arsanesia.com/project/impetus/" >}}Official Site{{< /button >}}
 {{< button href="https://drive.google.com/file/d/13JUBfhxGsq6A4Z3mHR6lq3hac0UJ2_CU/view?usp=sharing" >}}Design Document Sample{{< /button >}}
+
+## Let's Collab!
+
+{{< button href="https://drive.google.com/file/d/1MkKM60mOHL6T1BLOuuq26VJX4fO5XrnG/view?usp=sharing" >}}My CV{{< /button >}}
+{{< button href="https://www.fiverr.com/chiyodewa" >}}Hire me as a freelancer!{{< /button >}}
