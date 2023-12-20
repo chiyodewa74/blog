@@ -31,7 +31,7 @@ Game Designer based in Jakarta, Indonesia. Specializing in mechanics and system 
 ## Professional Projects
 ### Project Unseek
 
-{{<figure alt="Project Unseek" src="https://chiyodewa74.github.io/blog/images/unseek.jpg">}}
+{{<figure alt="Project Unseek" src="https://chiyodewa74.github.io/images/unseek.jpg">}}
 
 **Project Unseek** is an upcoming 80’s Horror Flick-themed 2v6 Asymmetrical Online Multiplayer PvP with a unique cast of characters with their own skills, performed in an experiment of life and death.
 
@@ -51,7 +51,7 @@ Play together to escape from the nerve-wracking terror or become the terror inst
 
 ### Realitychain
 
-{{<figure alt="Project Unseek" src="https://chiyodewa74.github.io/blog/images/realitychain.jpg">}}
+{{<figure alt="Project Unseek" src="https://chiyodewa74.github.io/images/realitychain.jpg">}}
 
 Multichain, Interoperable Metaverse-as-a-service
 
@@ -73,7 +73,7 @@ Award-Winning Casual 2D Social Metaverse operating on multiple blockchain platfo
 
 ### Impetus UK Version
 
-{{<figure alt="Project Unseek" src="https://chiyodewa74.github.io/blog/images/impetus.jpg">}}
+{{<figure alt="Project Unseek" src="https://chiyodewa74.github.io/images/impetus.jpg">}}
 
 **Improving Mental Health Literacy Among Young People Aged 11-15 in Jakarta, Bogor, Magelang – Indonesia: Co-Development and Feasibility Testing of Culturally-Appropriate, User-Centered Resource**, or in short **IMPeTuS** is a research project of University of Manchester, University of Liverpool, and Indonesia Health Ministry to understand mental health literacy of teens 11 to 15 y.o in Jakarta, Bogor, dan Magelang using media such as video games.
 
