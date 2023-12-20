@@ -22,4 +22,5 @@ disableShare: false
 canonicalURL: ""
 ShowCanonicalLink: false
 CanonicalLinkText: "Originally published at"
+hidemeta: false
 ---

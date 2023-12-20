@@ -19,6 +19,9 @@ menu:
     - name: Archive
       url: archives
       weight: 3
+    - name: Portfolio
+      url: /portfolio
+      weight: 4
 
 params:
   description: "Chiyo Dewa's Personal Blog"
