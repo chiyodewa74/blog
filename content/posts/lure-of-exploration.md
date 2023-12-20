@@ -40,5 +40,3 @@ Like the Chi of Yore quest at Qingce Village. In this lengthy quest, you have to
 ***
 
 That kind of experience is what keeps dragging me to play Genshin through this whole weekend. It reminds me of the year 2013 when I first started playing The Elder Scrolls: Skyrim. The sheer massiveness and liveliness of the game world really keep me playing for a couple of months.
-
-Test
