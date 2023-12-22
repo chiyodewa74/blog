@@ -30,6 +30,7 @@ params:
   ShowPostNavLinks: true
   defaultTheme: auto
   env: production
+  taxonomiesExcludedFromSitemap: ["tags", "categories", "series"]
 
   profileMode:
     enabled: true
