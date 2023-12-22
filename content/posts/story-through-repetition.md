@@ -22,6 +22,8 @@ disableShare: false
 canonicalURL: "https://store.steampowered.com/app/1145360/Hades/"
 ShowCanonicalLink: true
 CanonicalLinkText: "Check out the game at"
+hidemeta: false
+sitemap_exclude: false
 ---
 Telling a deep story through a medium that relies heavily on luck and randomness, a medium where you have to repeat the same part over and over again, is a difficult challenge. I'm talking about roguelike games, or even rogue-lite games, where after each run, the player will have some progresses toward a certain goal. This is one of the challenges for Supergiant Games in developing their game, Hades.
 

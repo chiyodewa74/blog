@@ -22,6 +22,8 @@ disableShare: false
 canonicalURL: "https://genshin.hoyoverse.com/en/"
 ShowCanonicalLink: true
 CanonicalLinkText: "Check out the game at"
+hidemeta: false
+sitemap_exclude: false
 ---
 So, I just started playing Genshin Impact this past weekend. I know I'm a bit late (like 2 years late), but it's a long weekend and I figured I might just download it and see what the fuss is all about. And damn, am I addicted to it.
 
