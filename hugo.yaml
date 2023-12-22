@@ -87,7 +87,6 @@ sitemap:
   changeFreq: "daily"
   filename: sitemap.xml
   priority: -1
-  Exclude: false
 
 enableEmoji: true
 googleAnalytics: G-Z65J3TNNRZ

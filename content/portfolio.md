@@ -23,6 +23,7 @@ canonicalURL: ""
 ShowCanonicalLink: false
 CanonicalLinkText: "Originally published at"
 hidemeta: true
+sitemap_exclude: true
 ---
 
 ## Bio
