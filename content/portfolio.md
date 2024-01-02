@@ -100,7 +100,6 @@ Play as the greedy boss who would do anything to keep his stash of money from th
 
 - **Role:** Game Programmer
 - **Made for:** Garena Game Jam
-- **Media:** Video Game
 - **Responsibility:** \
   Collaborate with another programmer to deliver the game concept in the form of a protototype in under 48 hours.
 
@@ -116,7 +115,6 @@ No rush! Explore all kinds of biomes & animals available in this endless casual 
 
 - **Role:** Game Designer
 - **Made for:** Game Jam+ 2023/2024
-- **Media:** Video Game
 - **Responsibilities:**
   - Expand the game concept into a detailed design.
   - Made all animal cards & arrangements as the games content.
@@ -131,7 +129,6 @@ No rush! Explore all kinds of biomes & animals available in this endless casual 
  A board game for elderlies & children to tell life stories with a bit of white lies
 
 - **Role:** Game Creator
-- **Media:** Board Game
 - **Responsibilities:**
   - Conducted research on nearby nursing homes & primary school teachers.
   - Made board game concept based on the research results.
