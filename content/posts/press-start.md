@@ -7,6 +7,7 @@ tags: [""]
 categories: [""]
 series: ["Blog Updates"]
 aliases: [""]
+draft: false
 cover:
   image: images/hi.jpg
   alt: "Hi image"

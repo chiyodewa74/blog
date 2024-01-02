@@ -1,11 +1,11 @@
 ---
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+title: 'Passage of Time'
 description: ""
 author: ["Chiyo Dewa"]
-date: {{ .Date }}
+date: 2023-12-31T13:14:00+07:00
 tags: ["", ""]
 categories: [""]
-series: [""]
+series: ["Anime Essay"]
 aliases: [""]
 draft: true
 # cover:

@@ -1,11 +1,11 @@
 ---
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
-description: ""
+title: 'Abundance of Content'
+description: "Swim through Dave the Diver's endless wave of content"
 author: ["Chiyo Dewa"]
-date: {{ .Date }}
+date: 2023-12-31
 tags: ["", ""]
 categories: [""]
-series: [""]
+series: ["Game Essays"]
 aliases: [""]
 draft: true
 # cover:

@@ -7,6 +7,7 @@ tags: ["Genshin Impact", "Genshin", "Teyvat", "Open World", "Exploration", "Acti
 categories: [""]
 series: ["Game Essays"]
 aliases: [""]
+draft: false
 # cover:
   # image: images/msg.png
   # alt: "Genshin Impact Cover"

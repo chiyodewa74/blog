@@ -7,6 +7,7 @@ tags: ["Hades", "Hades Game", "Roguelike", "Action Roguelike", "Game Design", "G
 categories: [""]
 series: ["Game Essays"]
 aliases: [""]
+draft: false
 cover:
   image: posts/story-through-repetition/cover.png
   alt: "Hades banner"
