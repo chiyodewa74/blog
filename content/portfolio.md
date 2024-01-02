@@ -92,6 +92,55 @@ This particular version of the game is specifically developed for UK audience.
 {{< button href="https://arsanesia.com/project/impetus/" >}}Official Site{{< /button >}}
 {{< button href="https://drive.google.com/file/d/13JUBfhxGsq6A4Z3mHR6lq3hac0UJ2_CU/view?usp=sharing" >}}Design Document Sample{{< /button >}}
 
+## Side Projects
+### Pehaka
+
+{{<figure alt="Pehaka" src="https://chiyodewa74.github.io/images/pehaka1.png">}}
+
+Summary
+
+- **Role:** Game Programmer
+- **Made for:** Garena Game Jam
+- **Media:** Video Game
+- **Responsibilities:**
+  - One
+  - Two
+  - Three
+  - Four
+
+{{< button href="https://rxdsavt.itch.io/pehaka" >}}Itch.io Page{{< /button >}}
+
+### Zoozagons
+
+{{<figure alt="Zoozagons" src="https://chiyodewa74.github.io/images/zoozagons1.png">}}
+
+Summary
+
+- **Role:** Game Designer
+- **Made for:** Game Jam+ 2023/2024
+- **Media:** Video Game
+- **Responsibilities:**
+  - One
+  - Two
+  - Three
+  - Four
+
+{{< button href="https://chiyodewa.itch.io/zoozagons" >}}Itch.io Page{{< /button >}}
+
+### Home
+
+{{<figure width=100 height=100 alt="Home" src="https://chiyodewa74.github.io/images/home.jpg">}}
+
+Summary
+
+- **Role:** Game Creator
+- **Media:** Board Game
+- **Responsibilities:**
+  - One
+  - Two
+  - Three
+  - Four
+
 ## Let's Collab!
 
 {{< button href="https://drive.google.com/file/d/1MkKM60mOHL6T1BLOuuq26VJX4fO5XrnG/view?usp=sharing" >}}My CV{{< /button >}}

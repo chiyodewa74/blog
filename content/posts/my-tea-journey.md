@@ -3,7 +3,7 @@ title: 'My Tea Journey'
 description: "First step in my tea sipping journey"
 author: ["Chiyo Dewa"]
 date: 2023-12-19
-tags: ["", ""]
+tags: ["Tea", "Tea drinking", ]
 categories: [""]
 series: ["Tea Drinking"]
 aliases: [""]
