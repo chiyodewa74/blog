@@ -126,7 +126,7 @@ No rush! Explore all kinds of biomes & animals available in this endless casual 
 
 {{<figure width=300 height=300 alt="Home" src="https://chiyodewa74.github.io/images/home.jpg">}}
 
- A board game for elderlies & children to tell life stories with a bit of white lies
+ A board game for elderlies & children to tell life stories with a bit of white lies.
 
 - **Role:** Game Creator
 - **Responsibilities:**
