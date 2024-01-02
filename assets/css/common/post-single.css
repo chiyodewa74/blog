@@ -443,6 +443,7 @@ img.in-text {
     -webkit-transition: all 0.15s !important;
        -moz-transition: all 0.15s !important;
             transition: all 0.15s !important;
+    margin-right: 5px;
   }
   .btn:focus {
     /*outline: thin dotted;

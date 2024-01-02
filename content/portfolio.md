@@ -54,7 +54,7 @@ Play together to escape from the nerve-wracking terror or become the terror inst
 
 {{<figure alt="Project Unseek" src="https://chiyodewa74.github.io/images/realitychain.jpg">}}
 
-Multichain, Interoperable Metaverse-as-a-service
+Multichain, Interoperable Metaverse-as-a-service.
 
 Award-Winning Casual 2D Social Metaverse operating on multiple blockchain platforms.
 
@@ -78,16 +78,15 @@ Award-Winning Casual 2D Social Metaverse operating on multiple blockchain platfo
 
 **Improving Mental Health Literacy Among Young People Aged 11-15 in Jakarta, Bogor, Magelang – Indonesia: Co-Development and Feasibility Testing of Culturally-Appropriate, User-Centered Resource**, or in short **IMPeTuS** is a research project of University of Manchester, University of Liverpool, and Indonesia Health Ministry to understand mental health literacy of teens 11 to 15 y.o in Jakarta, Bogor, dan Magelang using media such as video games.
 
-This particular version of the game is specifically developed for UK audience.
+This particular version of the game is specifically **developed for UK audience**.
 
 {{< youtube aiS_8gLd1sc >}}
 
 - **Role:** Game Designer
 - **Responsibilities:**
-  - Designed most of the mechanics, characters, and skills.
-  - Conducted research on various similar games.
-  - Conducted monthly internal and external playtests to ensure game balance and iterate the design based on the playtest feedback.
-  - Developed and wrote most of the lore and the backstory.
+  - Researched various cultural aspects to convert IMPeTUs for UK audiences.
+  - Designed new mini-games designed specifically for newer chapters.
+  - Conducted collaboration with the University of Manchester and designed gameplay specifically for teens in the UK.
 
 {{< button href="https://arsanesia.com/project/impetus/" >}}Official Site{{< /button >}}
 {{< button href="https://drive.google.com/file/d/13JUBfhxGsq6A4Z3mHR6lq3hac0UJ2_CU/view?usp=sharing" >}}Design Document Sample{{< /button >}}
@@ -97,16 +96,13 @@ This particular version of the game is specifically developed for UK audience.
 
 {{<figure alt="Pehaka" src="https://chiyodewa74.github.io/images/pehaka1.png">}}
 
-Summary
+Play as the greedy boss who would do anything to keep his stash of money from the hands of his angry worker. Fortunately, he can respawn over and over again and even use his tombstone as walls to defend his treasure.
 
 - **Role:** Game Programmer
 - **Made for:** Garena Game Jam
 - **Media:** Video Game
-- **Responsibilities:**
-  - One
-  - Two
-  - Three
-  - Four
+- **Responsibility:** \
+  Collaborate with another programmer to deliver the game concept in the form of a protototype in under 48 hours.
 
 {{< button href="https://rxdsavt.itch.io/pehaka" >}}Itch.io Page{{< /button >}}
 
@@ -114,34 +110,35 @@ Summary
 
 {{<figure alt="Zoozagons" src="https://chiyodewa74.github.io/images/zoozagons1.png">}}
 
-Summary
+Relax & carefully place your biome tiles in Zoozagons! In this game, you must arrange tiles you put to make an ecosystem for animals and put those animals in place to buy more tiles. 
+
+No rush! Explore all kinds of biomes & animals available in this endless casual city builder & puzzle game.
 
 - **Role:** Game Designer
 - **Made for:** Game Jam+ 2023/2024
 - **Media:** Video Game
 - **Responsibilities:**
-  - One
-  - Two
-  - Three
-  - Four
+  - Expand the game concept into a detailed design.
+  - Made all animal cards & arrangements as the games content.
+  - Create a fun coin sink & source formula.
 
 {{< button href="https://chiyodewa.itch.io/zoozagons" >}}Itch.io Page{{< /button >}}
 
 ### Home
 
-{{<figure width=100 height=100 alt="Home" src="https://chiyodewa74.github.io/images/home.jpg">}}
+{{<figure width=300 height=300 alt="Home" src="https://chiyodewa74.github.io/images/home.jpg">}}
 
-Summary
+ A board game for elderlies & children to tell life stories with a bit of white lies
 
 - **Role:** Game Creator
 - **Media:** Board Game
 - **Responsibilities:**
-  - One
-  - Two
-  - Three
-  - Four
+  - Conducted research on nearby nursing homes & primary school teachers.
+  - Made board game concept based on the research results.
+  - Conducted playtesting sessions with elderlies & childrens as the players.
 
 ## Let's Collab!
 
+{{< button href="mailto:chiyodewa74@gmail.com" >}}Contact Me{{< /button >}}
 {{< button href="https://drive.google.com/file/d/1MkKM60mOHL6T1BLOuuq26VJX4fO5XrnG/view?usp=sharing" >}}My CV{{< /button >}}
 {{< button href="https://www.fiverr.com/chiyodewa" >}}Hire me as a freelancer!{{< /button >}}
