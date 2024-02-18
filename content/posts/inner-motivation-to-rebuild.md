@@ -3,7 +3,7 @@ title: 'Inner Motivation to Rebuild'
 description: "Why our good motivation dwindles"
 author: ["Chiyo Dewa"]
 date: 2024-02-18
-tags: ["", ""]
+tags: ["Motivation", "Excercise", "Workout", "Hierarchy of Needs"]
 categories: [""]
 series: ["Psychology"]
 aliases: [""]
