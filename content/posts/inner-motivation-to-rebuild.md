@@ -13,7 +13,7 @@ draft: false
   # alt: ""
   # caption: ""
 images:
-  - posts/inner-motivation-to-rebuild/exercise.jpg
+  - posts/inner-motivation-to-rebuild/cover.jpg
 ShowToc: false
 # TocOpen: true
 ShowBreadCrumbs: false
