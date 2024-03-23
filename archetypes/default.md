@@ -13,7 +13,7 @@ draft: true
   # alt: ""
   # caption: ""
 # images:
-  # images/<SEO thumbnail>
+  # - images/<SEO thumbnail>
 ShowToc: false
 # TocOpen: true
 ShowBreadCrumbs: false

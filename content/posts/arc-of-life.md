@@ -26,3 +26,8 @@ CanonicalLinkText: "Originally published at"
 hidemeta: false
 sitemap_exclude: false
 ---
+
+Points to discuss:
+- Story arcs
+- What can we learn from story arc to better tell our life experiences
+- Examples of story arc implemented into chunks of daily life stories
