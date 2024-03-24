@@ -35,9 +35,9 @@ params:
   profileMode:
     enabled: true
     title: "Chiyo Dewa"
-    subtitle: A Game Designer from Jakarta with a lot of interests
+    subtitle: Educational, digital & physical games creator
     imageUrl: "images/prof-pic-baru.png"
-    imageTitle: "Chiyo Dewa's profile picture"
+    imageTitle: ""
     # imageWidth: 120
     # imageHeight: 120
     buttons:
