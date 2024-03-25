@@ -7,7 +7,7 @@ tags: ["", ""]
 categories: [""]
 series: ["Psychology"]
 aliases: [""]
-draft: true
+draft: false
 # cover:
   # image: images/msg.png
   # alt: ""
