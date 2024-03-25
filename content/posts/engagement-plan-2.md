@@ -22,7 +22,7 @@ comments: true
 disableShare: false
 canonicalURL: "https://play.google.com/store/apps/details?id=cc.forestapp"
 ShowCanonicalLink: true
-CanonicalLinkText: "Check out forest app over at"
+CanonicalLinkText: "Check out the Forest app over at"
 hidemeta: false
 sitemap_exclude: false
 ---
