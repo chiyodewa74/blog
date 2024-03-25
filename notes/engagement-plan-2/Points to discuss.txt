@@ -1,0 +1,18 @@
+Points to discuss:
+- Intro
+- 4 intrinsic motivation
+- Mastery
+  1. Detailed progression statistics. Rational (precise stat check) & emotional (comparing to previous stat)
+  2. Leaderboard. Emotional
+  3. Achievements. Emotional
+- Meaning
+  1. Real-life planting. Emotional
+  2. Phrase pop-up. Emotional
+- Autonomy
+  1. Tree customization & favorites. Emotional
+  2. Currency. Rational
+  3. Custom pomodoro tag. Emotional
+  4. Custom pomodoro timer / stopwatch time. Rational
+- Community
+  1. Group pomodoro. Environment (peer pressure) & emotional (sense of community)
+  2. Limited time trees to share. Environment (peer pressure) & emotional (pride of having & sharing)

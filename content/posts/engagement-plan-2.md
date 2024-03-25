@@ -26,29 +26,9 @@ CanonicalLinkText: "Check out forest app over at"
 hidemeta: false
 sitemap_exclude: false
 ---
-
-Points to discuss:
-- Intro
-- 4 intrinsic motivation
-- Mastery
-  1. Detailed progression statistics. Rational (precise stat check) & emotional (comparing to previous stat)
-  2. Leaderboard. Emotional
-  3. Achievements. Emotional
-- Meaning
-  1. Real-life planting. Emotional
-  2. Phrase pop-up. Emotional
-- Autonomy
-  1. Tree customization & favorites. Emotional
-  2. Currency. Rational
-  3. Custom pomodoro tag. Emotional
-  4. Custom pomodoro timer / stopwatch time. Rational
-- Community
-  1. Group pomodoro. Environment (peer pressure) & emotional (sense of community)
-  2. Limited time trees to share. Environment (peer pressure) & emotional (pride of having & sharing)
-
 In the previous article, we've talked about what is & how we can make an engagement plan. Other than to help conceptualize & document your app's engagement method, we can use the concept of engagement plan to analyze what engagement methods are being used by other apps. For this article, we will be analysing down Forest app's engagement plan
 
-{{<figure alt="Forest App" attr="" src="https://chiyodewa74.github.io/posts/engagement-plan-2/forest-app.png">}}
+{{<figure width=560 height=350 alt="Forest App" attr="" align="center" src="https://chiyodewa74.github.io/posts/engagement-plan-2/forest-app.png">}}
 
 # 4 Intrinsic Motivation
 
@@ -73,7 +53,7 @@ The Forest app have "Real Forest" program that partners with **Trees for the Fut
 
 This gives *emotional* attachment & motivation to us, telling us that not only do we gain mastery of our focus, but also helping the earth in the process.
 
-{{<figure width=365 height=640 alt="Real Forest program" attr="" align="center" src="https://chiyodewa74.github.io/posts/engagement-plan-2/real-forest.jpg">}}
+{{<figure width=292 height=512 alt="Real Forest program" attr="" align="center" src="https://chiyodewa74.github.io/posts/engagement-plan-2/real-forest.jpg">}}
 
 If you don't feel like doing focused-work session, you can set custom phrases that will pops-up while you're doing a pomodoro session to *emotionally* boost your motivation & remind you why you're doing it.
 
@@ -83,7 +63,7 @@ Before you start a pomodoro session, you can choose what type of tree to plant. 
 
 You can buy any of those type of trees using the currency you get every time you completed a pomodoro session. These customization options give an *emotional* attachment between you & your virtual forest.
 
-{{<figure width=393 height=768 alt="Forest store feature" attr="Forest's store" align="center" src="https://chiyodewa74.github.io/posts/engagement-plan-2/store.jpg">}}
+{{<figure width=262 height=512 alt="Forest store feature" attr="Forest's store" align="center" src="https://chiyodewa74.github.io/posts/engagement-plan-2/store.jpg">}}
 
 Other than that, you can customize your pomodoro setup quite extensively. You can change the tag to describe what you're working on, change the mode between timer & stopwatch, and set the session timer accordingly. This gives a lot of *rational* autonomy towards your focused-work session.
 
@@ -93,4 +73,8 @@ In the Forest app, you can invite your friend / work group to do the pomodoro se
 
 At certain time periods, you can also buy limited types of trees. If you managed to save up & buy them, you can share them to your friends as a bragging point. This give a lot of *emotional* satisfaction & a topic to talk about.
 
-{{<figure width=393 height=768 alt="Forest store feature" attr="Forest's store" align="center" src="https://chiyodewa74.github.io/posts/engagement-plan-2/exclusive-tree.jpg">}}
+{{<figure width=262 height=512 alt="Exclusive time-limited trees" attr="Exclusive time-limited trees" align="center" src="https://chiyodewa74.github.io/posts/engagement-plan-2/exclusive-tree.jpg">}}
+
+# Conclusion
+
+The Forest app manages to design engagement methods that targets the 4 intrinsic motivation of people. Each of the engagement method are interconnected and works together to help you have a routine deeply-focused work sessions. If you want to design a live-service app with an engagement method that works well, you should study the Forest app.
