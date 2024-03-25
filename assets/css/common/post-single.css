@@ -408,14 +408,14 @@ img.in-text {
 
 @media only screen and (min-width: 800px) {
     figure.floatright {
-        margin: 10px;
-        padding: 10px;
+        margin: 5px;
+        padding: 5px;
         float: right;
     }
     
     figure.floatleft {
-        margin: 10px;
-        padding: 10px;
+        margin: 5px;
+        padding: 5px;
         float: left;
     }
 }
