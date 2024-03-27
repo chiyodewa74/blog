@@ -44,7 +44,7 @@ Before anything, you need to define who / what kind of people you think are goin
 
 A user persona consists of 2 parts, psychographics & demographics. **Psychographics** categorize users by qualitative psychological factors, such as their personality, interests, and values. While **demographics** categorize user by their demographic information such as age, gender, job, income level, & graduation.
 
-{{<figure alt="Psychographics vs Demographics Diagram" attr="Persona Diagram by [CBInsights](https://www.cbinsights.com/research/what-is-psychographics/)" src="https://chiyodewa74.github.io/posts/engagement-plan-1/demographics-vs-psychographics.png">}}
+{{<figure width=511 height=512 alt="Psychographics vs Demographics Diagram" attr="Persona Diagram by [CBInsights](https://www.cbinsights.com/research/what-is-psychographics/)" align="center" src="https://chiyodewa74.github.io/posts/engagement-plan-1/demographics-vs-psychographics.png">}}
 
 ### 2. Separate Into 4 Categories
 
@@ -71,7 +71,7 @@ Once your document is filled with engagement ideas, separate them again into a f
   - **The elephant:** Triggered our brain by the amygdala, the root of our emotional thinking
   - **The path:** Triggers we get from external stimuli
 
-{{<figure alt="Source of feedback processing" attr="Source of feedback processing" src="https://chiyodewa74.github.io/posts/engagement-plan-1/source-of-feedback-processing.png">}}
+{{<figure width=367 height=536 alt="Source of feedback processing" attr="Source of feedback processing" align="center" src="https://chiyodewa74.github.io/posts/engagement-plan-1/source-of-feedback-processing.png">}}
 
 Go through each idea in each category of the engagement plan & identify if it's motivating through the rider, the elephant, or the path. Add "R", "E", or "P" beside each idea.
 
