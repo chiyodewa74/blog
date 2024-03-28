@@ -24,7 +24,7 @@ menu:
       weight: 4
 
 params:
-  description: "Chiyo Dewa's Personal Blog"
+  description: "Chiyo Dewa"
   author: Chiyo Dewa
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -35,7 +35,7 @@ params:
   profileMode:
     enabled: true
     title: "Chiyo Dewa"
-    subtitle: Educational, digital & physical games creator
+    subtitle: Digital & Physical Games Creator
     imageUrl: "images/prof-pic-baru.png"
     imageTitle: ""
     # imageWidth: 120
