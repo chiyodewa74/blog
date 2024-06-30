@@ -137,5 +137,5 @@ No rush! Explore all kinds of biomes & animals available in this endless casual 
 ## Let's Collab!
 
 {{< button href="mailto:chiyodewa74@gmail.com" >}}Contact Me{{< /button >}}
-{{< button href="https://drive.google.com/file/d/1MkKM60mOHL6T1BLOuuq26VJX4fO5XrnG/view?usp=sharing" >}}My CV{{< /button >}}
+{{< button href="https://drive.google.com/file/d/1_3qsR35b5NYEyHkFh_alajSPx0dmg9Mr/view?usp=sharing" >}}My CV{{< /button >}}
 {{< button href="https://www.fiverr.com/chiyodewa" >}}Hire me as a freelancer!{{< /button >}}
