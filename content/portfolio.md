@@ -80,7 +80,7 @@ Award-Winning Casual 2D Social Metaverse operating on multiple blockchain platfo
 
 This particular version of the game is specifically **developed for UK audience**.
 
-{{< youtube aiS_8gLd1sc >}}
+<!-- {{< youtube aiS_8gLd1sc >}} -->
 
 - **Role:** Game Designer
 - **Responsibilities:**
@@ -113,14 +113,22 @@ Relax & carefully place your biome tiles in Zoozagons! In this game, you must ar
 
 No rush! Explore all kinds of biomes & animals available in this endless casual city builder & puzzle game.
 
-- **Role:** Game Designer
+Zoozagons was nominated for Best Game Design & Best Pitch in the Game Jam+ event
+
+{{<figure width=335 height=335 alt="Nominated for Best Game Design award" class="floatleft" src="https://chiyodewa74.github.io/images/Award 1.jpg">}}
+{{<figure width=335 height=335 alt="Nominated for Best Pitch award" class="floatright" src="https://chiyodewa74.github.io/images/Award 2.jpg">}}
+
+- **Role:** Game Designer & Producer
 - **Made for:** Game Jam+ 2023/2024
 - **Responsibilities:**
   - Expand the game concept into a detailed design.
   - Made all animal cards & arrangements as the games content.
   - Create a fun coin sink & source formula.
+  - Did market research
+  - Made a pitch deck
 
 {{< button href="https://chiyodewa.itch.io/zoozagons" >}}Itch.io Page{{< /button >}}
+{{< button href="https://docs.google.com/presentation/d/1AL-5akEMEKJSYFnpP1Eiym9g2i7pqblXt9iyKx3fuyA/edit?usp=sharing" >}}Pitch Deck{{< /button >}}
 
 ### Home
 
