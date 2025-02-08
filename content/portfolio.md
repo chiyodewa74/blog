@@ -92,18 +92,25 @@ This particular version of the game is specifically **developed for UK audience*
 {{< button href="https://drive.google.com/file/d/13JUBfhxGsq6A4Z3mHR6lq3hac0UJ2_CU/view?usp=sharing" >}}Design Document Sample{{< /button >}}
 
 ## Side Projects
-### Pehaka
 
-{{<figure alt="Pehaka" src="https://chiyodewa74.github.io/images/pehaka1.png">}}
+### I Am Bubble
 
-Play as the greedy boss who would do anything to keep his stash of money from the hands of his angry worker. Fortunately, he can respawn over and over again and even use his tombstone as walls to defend his treasure.
+{{<figure alt="Zoozagons" src="https://chiyodewa74.github.io/images/iambubble1.png">}}
 
-- **Role:** Game Programmer
-- **Made for:** Garena Game Jam
-- **Responsibility:** \
-  Collaborate with another programmer to deliver the game concept in the form of a protototype in under 48 hours.
+A game about a fart bubble trying to come up to the nose
 
-{{< button href="https://rxdsavt.itch.io/pehaka" >}}Itch.io Page{{< /button >}}
+I Am Bubble won local jam site award for the Best Theme Implementation & Best Overall Game.
+
+- **Role:** Lead Game Programmer
+- **Made for:** Global Game Jam 2025
+- **Responsibilities:**
+  - Design & implement the system for:
+    - Character movement & control
+    - Camera movement
+    - Animation
+    - Obstacle behaviour
+
+{{< button href="https://globalgamejam.org/games/2025/i-am-bubble-9" >}}Global Game Jam Page{{< /button >}}
 
 ### Zoozagons
 
@@ -113,7 +120,7 @@ Relax & carefully place your biome tiles in Zoozagons! In this game, you must ar
 
 No rush! Explore all kinds of biomes & animals available in this endless casual city builder & puzzle game.
 
-Zoozagons was nominated for Best Game Design & Best Pitch in the Game Jam+ event
+Zoozagons was nominated for the Best Game Design & Best Pitch award in the Game Jam+ event.
 
 {{<figure width=335 height=335 alt="Nominated for Best Game Design award" class="floatleft" src="https://chiyodewa74.github.io/images/Award 1.jpg">}}
 {{<figure width=335 height=335 alt="Nominated for Best Pitch award" class="floatright" src="https://chiyodewa74.github.io/images/Award 2.jpg">}}
@@ -129,6 +136,19 @@ Zoozagons was nominated for Best Game Design & Best Pitch in the Game Jam+ event
 
 {{< button href="https://chiyodewa.itch.io/zoozagons" >}}Itch.io Page{{< /button >}}
 {{< button href="https://docs.google.com/presentation/d/1AL-5akEMEKJSYFnpP1Eiym9g2i7pqblXt9iyKx3fuyA/edit?usp=sharing" >}}Pitch Deck{{< /button >}}
+
+### Pehaka
+
+{{<figure alt="Pehaka" src="https://chiyodewa74.github.io/images/pehaka1.png">}}
+
+Play as the greedy boss who would do anything to keep his stash of money from the hands of his angry worker. Fortunately, he can respawn over and over again and even use his tombstone as walls to defend his treasure.
+
+- **Role:** Game Programmer
+- **Made for:** Garena Game Jam
+- **Responsibility:** \
+  Collaborate with another programmer to deliver the game concept in the form of a protototype in under 48 hours.
+
+{{< button href="https://rxdsavt.itch.io/pehaka" >}}Itch.io Page{{< /button >}}
 
 ### Home
 
